@@ -1,0 +1,21 @@
+body { 
+	background-color: #f0f3f6; 
+}
+
+
+.wrapper {
+	margin-top: 150px;
+}
+.wrapper h1 {
+	color: #4f5f6f;
+	font-weight: bold;
+}
+.wrapper input {
+	border-color: #CED4DA;
+}
+
+.wrapper .input-group, 
+.wrapper button,
+.wrapper p {
+	margin-top: 10px;
+}
